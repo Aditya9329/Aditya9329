@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Feature Engineering , Djangom**
+- 💬 Ask me about **Feature Engineering , Django**
 
 - 📫 How to reach me **maurya932926@gmail.com**
 
